@@ -66,4 +66,4 @@ Link do vídeo (YouTube, não listado): **[a preencher]**
 
 ## Autor
 
-**Daniel Gimo** — Curso de Licenciatura em Informática, Universidade Licungo
+**Leyla Macuácua** — Curso de Licenciatura em Informática, Universidade Licungo
