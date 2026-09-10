@@ -62,7 +62,7 @@ ficheiro `Dados_Nao_Normalizados_Funcionarios.xlsx` fornecido pelo docente.
 
 ## Vídeo explicativo
 
-Link do vídeo (YouTube, não listado): **https://youtu.be/uZC2bPVy4nA**
+Link do vídeo (YouTube, não listado): **https://youtu.be/o_u--W7lG2M?si=0XCD-4LZnRfWknfH**
 
 ## Autor
 
